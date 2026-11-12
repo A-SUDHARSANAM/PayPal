@@ -1,0 +1,20 @@
+# JavaScript dependencies and generated Next.js output
+node_modules/
+**/node_modules/
+.next/
+**/.next/
+.next*/
+
+# Python environments and test/runtime caches
+.pytest_cache/
+**/.pytest_cache/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local credentials and environment configuration
+.env
+.env.*
+!.env.example
+!**/.env.example
